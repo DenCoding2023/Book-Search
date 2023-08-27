@@ -15,3 +15,11 @@ h6 {
   font-weight: 300;
   font-style: italic;
 }
+
+.root{
+  background-color: antiquewhite;
+}
+
+.container{
+  background-color: antiquewhite;
+}
