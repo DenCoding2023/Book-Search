@@ -30,7 +30,8 @@ This application is a MERN stack application which is a group of four technologi
 GitHub Repo: https://github.com/DenCoding2023/Book-Search.git
 
 
-Heroku Deployment:
+Heroku Deployment: Heroku is giving me an issue. It wont build. I have spend 2
+days and with AskBCS and it keeps asking having an issue with vite to build. 
 
 ## References
 
