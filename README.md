@@ -6,13 +6,12 @@ This is a book lookup app that allows you to search for books and save them to a
 
 ## Screenshot
 
-![Screenshot of the installed app running](./assets/images/Screenshot.png)
-
+![Alt text](assets/images/book1.jpg)
+![Alt text](assets/images/book2.jpg)
 
 ## Link
 
-GitHub Repo:
-https://github.com/auswaller/Book-Lookup
+GitHub Repo: https://github.com/DenCoding2023/Book-Search.git
+
 
 Heroku Deployment:
-https://fast-retreat-67039-a19c8c0d8590.herokuapp.com
